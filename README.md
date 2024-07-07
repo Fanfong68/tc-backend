@@ -1,6 +1,6 @@
 # BackEnd Installation
 1. Clone the repository
-`git clone https://github.com/fanfong/tc-backend.git`
+`git clone https://github.com/Fanfong68/tc-backend.git`
 
 3. Setup a .env file with your own database details
 `PORT=8082`
